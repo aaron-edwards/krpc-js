@@ -19,6 +19,6 @@ export default {
   transform: {
     '^.+\\.[tj]s$': ['@swc/jest', swcJestConfig],
   },
-  moduleFileExtensions: ['ts', 'js', 'html'],
-  coverageDirectory: '../../coverage/packages/client',
+  moduleFileExtensions: ['ts', 'js'],
+  testEnvironment: 'node',
 };
