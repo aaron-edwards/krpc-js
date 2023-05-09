@@ -1,0 +1,16 @@
+{
+  "name": "krpc-js",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {},
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "@nx/js": "16.1.3",
+    "@nx/workspace": "16.1.3",
+    "nx": "16.1.3",
+    "nx-cloud": "latest",
+    "prettier": "^2.6.2",
+    "typescript": "~5.0.2"
+  }
+}
